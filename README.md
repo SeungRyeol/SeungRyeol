@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://devshin.netlify.app/)](https://devshin.netlify.app/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungRyeol&show_icons=true&theme=blueberry)
